@@ -100,5 +100,5 @@ Although FRDS underperforms the ML baselines in F1-score, it offers:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/frds-fake-review-fuzzy.git
+git clone https://github.com/BoranKY/frds-fake-review-fuzzy.git
 cd frds-fake-review-fuzzy
