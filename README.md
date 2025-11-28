@@ -93,24 +93,7 @@ Although FRDS underperforms the ML baselines in F1-score, it offers:
 
 ---
 
-## Repository Structure
 
-- `FRDS_Project.ipynb`  
-  Main Jupyter notebook containing the full pipeline: preprocessing, feature extraction,
-  fuzzy system, and evaluation.
-
-- `Andrii_Korniienko_Boran_Kaya_scientific_report.pdf`  
-  Full scientific report describing the system, experiments, and results.
-
-- `Andrii_Korniienko_Boran_Kaya_individual_report.pdf`  
-  Individual contributions report summarising each team member’s role.
-
-- `requirements.txt`  
-  Python dependencies.
-
-(Adjust filenames if your repository uses different names.)
-
----
 
 ## Installation & Setup
 
